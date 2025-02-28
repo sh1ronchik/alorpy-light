@@ -1,0 +1,3 @@
+# Токен для подключения
+TOKEN = "YOUR TBANK API TOKEN"
+REFRESH_TOKEN = "YOUR ALOR REFRESH TOKEN"

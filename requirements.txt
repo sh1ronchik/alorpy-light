@@ -1,0 +1,9 @@
+pytz
+requests
+pyjwt
+urllib3
+websockets
+pandas
+matplotlib
+numpy
+tinkoff-investments
